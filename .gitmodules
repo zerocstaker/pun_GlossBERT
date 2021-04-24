@@ -1,0 +1,3 @@
+[submodule "GlossBERT"]
+	path = GlossBERT
+	url = https://github.com/HSLCY/GlossBERT.git
